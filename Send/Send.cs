@@ -11,7 +11,11 @@ namespace Send
             Console.WriteLine("Before sending...");
 
             var factory = new ConnectionFactory(){
-                HostName = "localhost"
+                HostName = "localhost",
+                UserName = "guest",
+                Password = "guest",
+                Port = 5672,
+                RequestedConnectionTimeout = 3000
             };
 
             using(var connection = factory.CreateConnection()){

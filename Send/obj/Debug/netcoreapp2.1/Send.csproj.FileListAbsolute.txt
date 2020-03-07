@@ -1,0 +1,11 @@
+C:\git_lab\hello-rabbit\Send\bin\Debug\netcoreapp2.1\Send.deps.json
+C:\git_lab\hello-rabbit\Send\bin\Debug\netcoreapp2.1\Send.runtimeconfig.json
+C:\git_lab\hello-rabbit\Send\bin\Debug\netcoreapp2.1\Send.runtimeconfig.dev.json
+C:\git_lab\hello-rabbit\Send\bin\Debug\netcoreapp2.1\Send.dll
+C:\git_lab\hello-rabbit\Send\bin\Debug\netcoreapp2.1\Send.pdb
+C:\git_lab\hello-rabbit\Send\obj\Debug\netcoreapp2.1\Send.csprojAssemblyReference.cache
+C:\git_lab\hello-rabbit\Send\obj\Debug\netcoreapp2.1\Send.csproj.CoreCompileInputs.cache
+C:\git_lab\hello-rabbit\Send\obj\Debug\netcoreapp2.1\Send.AssemblyInfoInputs.cache
+C:\git_lab\hello-rabbit\Send\obj\Debug\netcoreapp2.1\Send.AssemblyInfo.cs
+C:\git_lab\hello-rabbit\Send\obj\Debug\netcoreapp2.1\Send.dll
+C:\git_lab\hello-rabbit\Send\obj\Debug\netcoreapp2.1\Send.pdb
