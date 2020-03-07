@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Send
 {
-    class Send
+    class Sender
     {
         static void Main(string[] args)
         {
